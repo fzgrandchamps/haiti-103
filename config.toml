@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Haitian Things to Do Before You Die"
+theme = "coyote"
+[outputs]
+  home = ['HTML', 'JSON']
+
