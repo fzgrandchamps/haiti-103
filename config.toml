@@ -1,7 +1,8 @@
+title = "Haitian Things to Do Before You Die"
 baseURL = "https://fzgrandchamps.github.io/haiti-103/"
 languageCode = "en-us"
-title = "Haitian Things to Do Before You Die"
 theme = 'coyote'
-[outputs]
-  home = ['HTML', 'JSON']
+
+#[outputs]
+#  home = ['HTML', 'JSON']
 
