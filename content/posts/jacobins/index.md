@@ -1,7 +1,7 @@
 ---
 title: "Read The Black Jacobins"
 date: 2023-09-20T07:30:03-04:00
-image: "The_Black_Jacobins.jpg"
+image: "black_jacobins_2.jpg"
 draft: false
 # tags:
 #   - tagA
