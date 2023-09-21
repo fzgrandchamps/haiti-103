@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://fzgrandchamps.github.io/haiti-103/"
 languageCode = "en-us"
 title = "Haitian Things to Do Before You Die"
 theme = "coyote"
