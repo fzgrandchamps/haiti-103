@@ -3,6 +3,6 @@ baseURL = "https://fzgrandchamps.github.io/haiti-103/"
 languageCode = "en-us"
 theme = 'coyote'
 
-#[outputs]
-#  home = ['HTML', 'JSON']
+[outputs]
+  home = ['HTML', 'JSON']
 
