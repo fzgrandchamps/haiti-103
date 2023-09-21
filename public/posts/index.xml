@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Haitian Things to Do Before You Die</title>
-    <link>http://example.org/posts/</link>
+    <link>https://fzgrandchamps.github.io/haiti-103/posts/</link>
     <description>Recent content in Posts on Haitian Things to Do Before You Die</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Sep 2023 07:30:03 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fzgrandchamps.github.io/haiti-103/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Visit the Citadel</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://fzgrandchamps.github.io/haiti-103/posts/my-first-post/</link>
       <pubDate>Wed, 20 Sep 2023 07:30:03 -0400</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://fzgrandchamps.github.io/haiti-103/posts/my-first-post/</guid>
       <description></description>
     </item>
     
